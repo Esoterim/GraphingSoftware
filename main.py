@@ -1,8 +1,8 @@
 import pygame
-import points
-from draw import *
+import special_info
+from draw_graph import *
 import sys
-import calculate
+import calculate_function
 from colors import Color
 
 pygame.init()
