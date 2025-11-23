@@ -1,5 +1,5 @@
 import pygame
-import dots
+import points
 from draw import *
 import sys
 import calculate
